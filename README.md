@@ -1,7 +1,7 @@
-# AP4-1_CV_Porfolio
-CV Porfolio
+# Argentina Programa 4.0
+### Fundamentos de la Programación
 
-Este es mi primer página creada para Argentina Programa 4.0:
+Este es mi proyecto de CV-Portfolio para el final del programa.
 
 https://marianonwk.github.io/AP4-1_CV_Porfolio/
 
